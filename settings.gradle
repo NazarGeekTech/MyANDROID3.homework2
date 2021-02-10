@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MyANDROID3.home2"
